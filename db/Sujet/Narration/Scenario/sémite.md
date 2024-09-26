@@ -19,5 +19,9 @@
 
   Le grand pacte fut marqué de 7 sceaux, brisé aux moment convenu quand le royaume des hommes seraient prêt pour la guerre ultime, le combat qui rétablira l'equilibre & determinerait du sort ultime des 3 royaumes.
 
+  - 
+
+
+
 3. 
   
