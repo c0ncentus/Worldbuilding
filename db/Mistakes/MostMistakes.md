@@ -1,4 +1,4 @@
-1. Personnage, trames, Worlbuilding
+1. Personnage, Trames, Worlbuilding
    Devrait à chaque fois être connecté dans la narration 
    pour creer un lien entre action, attachement émotionnel & imaginaire/découverte/familiarité.
 
