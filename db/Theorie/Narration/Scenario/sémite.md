@@ -3,7 +3,7 @@
    - chacun est un rôle/poste
    - débloque des pouvoirs/responsabilités
 
-2. L'apokalipse
+2. L'apocalipse
    - https://youtu.be/XayGNfcbL3I?feature=shared&t=15
   "Depuis la nuit des temps, les armés des cieux et des enfers se livrerent bataille sans fin.
   Le conseil Ardent se retrouva mêlé au conflit, cette entitée lié par d'ancienne lois pour maintenir l'ordre & l'équilibre statua que toute grande puissance non maitrisé constitué une menace contre l'Univers

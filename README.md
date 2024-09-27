@@ -1,52 +1,67 @@
 # Worldbuilding
-![Sonny and Mariel high fiving.](./assets/chapelle.jpg)![Sonny and Mariel high fiving.](./assets/chapelle.jpg)
+![world](./assets/Quislaona-1.jpg)
 
-# Ma démarche 
+
+
+## Sommaire
+### à propos
+- [**Ressources d'autorités**](./src/a_propos/Authority.md)
+
+- [**Légende**](./src/a_propos/Legend.md)
+
+- [**Foire aux Questions**](./src/a_propos/Legend.md)
+
+
+### Ressources
+- [**Outils**](./src/)
+- [**Erreurs**](./src/)
+- [**Questions**](./src/)
+- [**Theories**](./src/)
+    
+    Par type
+  - [**Aventure**](./src/)
+  - [**Récit**](./src/)
+  - [**Mythologie**](./src/)
+  - [**Conte**](./src/)
+- [**Outils**](./src/)
+- [**Outils**](./src/)
+- [**Outils**](./src/)
+- [**Outils**](./src/)
+
+
+
+## Objectifs du partage
+- Read The Friendly Manual (pour les néophytes),
+  un manuel de support
+- intelligence collective
+- inspiration/conception démultiplié
+- des ressources de qualités
+
+
 
 ## Théories
 
 -  Rendre compact & Organiser toutes les ressources disponibles sur le sujet <Qualité>
+-  Nous nous ne ré-inventons pas la roue
 -  Lancez toutes vos idées 🧠  ! 
-
+![wall](./assets/wall_numeric_cryptic.jpg)
 
 ## Partage 
 - Entraide 
 - rentabilisez votre temps de recherche en faisant un partage sur le sujet ici
 - Ayez des retours sur vos travaux que ce soit aventures/narrations/théories sur du  fictionnel ☄️/réalistes 🎭/imaginaire 🌈
 
+
+![chapelle](./assets/koboldguide.webp)
+
 ## Critique
-- Avis <<:angrypuff:592434418853871626>  ou <:whappy:388051924391297024>> sur des Scénarios/Univers ou autres.
+- Avis posisif ou negatif sur des Scénarios/Univers ou autres.
 
-# "Qualité" peut être évaluer via des critères comme :
+![chapelle](./assets/fgyhkghkgkkhk.jpg)
 
-# Portabilité & Manipulation des données :
-- Sauvegarde disponible en local 💾 
-- import disponible (non bugé entre versions) 📦
-- interconnectable avec d'autres format 🤓 
-- Api (une interface pour manipulation de l'objet) 🧦 
 
-# Valeur : 
-- les possibilités de conception (complexités) 😵‍💫 
-- facilité d'usage (drag & drop, brush, replicatas) 🧩 
-- à usage "unique" (focalisé sur une unique grosse feature, un aspect du WorldBuilding) 🧐
-- Moddable ou Personnalisable (ajout de code) 🛠️  
-
-# Ergonomie 
-- practice for learn versus learn for practice 📔 
-- Français disponible 🇫🇷 / Anglais disponible 🇬🇧 / Chinois disponible 🇨🇳 / Espagnol disponible 🇪🇸  / italien disponible 🇮🇹  / Allemand Disponible 🇩🇪  / + de 50 langues disponibles (incluses les précédents)👅    
-- UI Window 90 👴 / Material 💂 / Autres / wowify 🌠 
-
-Forfait
-- Plan mensuel 🗓️ / Plan annuel 🌍  /  "One time purchase" 1️⃣ 
-- "pas chère" (en dessous de la moyenne) 💵 
-- 
-
-# Format:
--  jeux vidéos 🕹️ / Software 🏔️ 
--  Online 🌐 / Offline 🕯️
-- Apps Bureautique(compatible W.L.M) 🖥️ / Smartphone 📱
-🧑‍💻 Apple - 🤖 Android - 🇼 Windows - 🇱  Linux - 🇲  Mac Uniquement
+(aide la bienvenue, les messages sont en constructions car lacune de connaissance & biais forts)
 
 
 
-(aide la bienvenue, les messages <listes> sont en constructions car lacune de connaissance & biais forts)
+
