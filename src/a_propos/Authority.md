@@ -1,8 +1,9 @@
 # Fait Fit d'authorité
 ## Reedit
-- [Worldbuilding](https://www.reddit.com/r/worldbuilding/)  
+- [worldbuilding](https://www.reddit.com/r/worldbuilding/)  
 - [CharacterDevelopment](https://www.reddit.com/r/CharacterDevelopment/)
 - [Jeux de rôle](https://www.reddit.com/r/jdr/)
+- [imaginarymaps](https://www.reddit.com/r/imaginarymaps/) 
 
 
 

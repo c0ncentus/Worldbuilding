@@ -69,3 +69,4 @@ Message liés aux outils <En total YOLO, mais jours après jours je compte amél
 ## Généraliste
 - [rollforfantasy](https://rollforfantasy.com/)
 - [thievesguild](https://www.thievesguild.cc/tables/)
+- [mithrilandmages](https://www.mithrilandmages.com/) => Naming things
