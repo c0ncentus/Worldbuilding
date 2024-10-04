@@ -1,9 +1,26 @@
 # Fait Fit d'authorité
 ## Reedit
 - [worldbuilding](https://www.reddit.com/r/worldbuilding/)  
-- [CharacterDevelopment](https://www.reddit.com/r/CharacterDevelopment/)
-- [Jeux de rôle](https://www.reddit.com/r/jdr/)
-- [imaginarymaps](https://www.reddit.com/r/imaginarymaps/) 
+
+Worlbulding element
+-  [imaginarymaps](https://www.reddit.com/r/imaginarymaps/) X [mapmaking](https://www.reddit.com/r/mapmaking/)
+
+- [conlangs](https://www.reddit.com/r/conlangs/)
+- [linguistics](https://www.reddit.com/r/linguistics/)
+
+- [CharacterDevelopment](https://www.reddit.com/r/CharacterDevelopment/) X [characterforge](https://www.reddit.com/r/characterforge/)
+- [Infrastructurist](https://www.reddit.com/r/Infrastructurist/)
+- [urbanplanning](https://www.reddit.com/r/urbanplanning/)
+- [architecture](https://www.reddit.com/r/architecture/)
+- [LandscapeArchitecture](https://www.reddit.com/r/LandscapeArchitecture/)
+
+Aventure Biaisé
+- [Jeux de rôle](https://www.reddit.com/r/jdr/) 
+- [battlemaps](https://www.reddit.com/r/battlemaps/)
+
+Récit Biaisé
+- [fantasywriters](https://www.reddit.com/r/fantasywriters/)
+- [scifiwriting](https://www.reddit.com/r/scifiwriting/)
 
 
 
