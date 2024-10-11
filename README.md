@@ -3,6 +3,17 @@
 
 
 
+# l'usage de ce github
+
+Il est fait pour avoir un espace beaucoup plus fragmentés & sympa à utilisé plutôt que des gros blocs d'informations.
+
+
+[Google drive](https://drive.google.com/drive/folders/1xTb61EshWVdVbfhVog__v9kNphjVGuKB?usp=sharing)
+
+
+
+
+
 ## Sommaire
 ### à propos
 - [**Ressources d'autorités**](./src/a_propos/Authority.md)
@@ -31,10 +42,9 @@
 
 
 ## Objectifs du partage
-- Read The Friendly Manual (pour les néophytes),
-  un manuel de support
+- Read The Friendly Manual (pour les néophytes du worlbuilding), un manuel de support
 - intelligence collective
-- inspiration/conception démultiplié
+- inspiration / conception démultiplié
 - des ressources de qualités
 
 

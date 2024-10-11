@@ -17,7 +17,7 @@ Worlbulding element
 Aventure Biaisé
 - [Jeux de rôle](https://www.reddit.com/r/jdr/) 
 - [battlemaps](https://www.reddit.com/r/battlemaps/)
-
+- [PhasedBattleMaps](https://www.reddit.com/r/PhasedBattleMaps/)
 Récit Biaisé
 - [fantasywriters](https://www.reddit.com/r/fantasywriters/)
 - [scifiwriting](https://www.reddit.com/r/scifiwriting/)
